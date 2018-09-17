@@ -1,0 +1,22 @@
+{
+  "name": "flash-cards-api",
+  "version": "0.0.1",
+  "description": "API service for the Flash-cards project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duiliopastorelli/flash-cards-api.git"
+  },
+  "author": "Danilo Mezgec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duiliopastorelli/flash-cards-api/issues"
+  },
+  "homepage": "https://github.com/duiliopastorelli/flash-cards-api#readme",
+  "dependencies": {
+    "express-generator": "^4.16.0"
+  }
+}
