@@ -1,0 +1,14 @@
+{
+  "0": {
+    "id": 0,
+    "nick":"danilo",
+    "languages":["English", "Polish"],
+    "words": {
+      "id":1,
+      "token":"abc",
+      "meaningId":1,
+      "firstTime":true,
+      "score":0
+    }
+  }
+}

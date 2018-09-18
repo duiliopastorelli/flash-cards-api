@@ -1,0 +1,18 @@
+{
+  "0": {
+    "id": 0,
+    "img": "url-of-a-male-cat",
+    "words": {
+      "english": ["cat"],
+      "polish": ["kot"]
+    }
+  },
+  "1": {
+    "id": 1,
+    "img": "url-of-a-female-cat",
+    "words": {
+      "english": ["cat"],
+      "polish": ["kotka"]
+    }
+  }
+}
